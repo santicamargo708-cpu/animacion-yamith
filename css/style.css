@@ -1,0 +1,84 @@
+#fondo{
+  position: absolute;
+width: 1280px;
+height: 720px;
+background-image: url("../img/fondo.png");
+top: 0px;
+left: 0px;
+}
+
+#chasis{
+  position: absolute;
+width: 607px;
+height: 447px;
+background-image: url("../img/chasis.png");
+top: 150px;
+left: 300px;
+}
+
+#luz{
+  position: absolute;
+width: 30px;
+height: 32px;
+background-image: url("../img/luz.png");
+top: 220px;
+left: 750px;
+}
+
+
+#llanta1{
+  position: absolute;
+width: 191px;
+height: 199px;
+background-image: url("../img/rueda2.png");
+top: 450px;
+left: 550px;
+}
+
+
+#llanta2{
+  position: absolute;
+width: 189px;
+height: 187px;
+background-image: url("../img/rueda2.png");
+top: 450px;
+left: 800px;
+}
+
+
+#llanta3{
+  position: absolute;
+width: 187px;
+height: 169px;
+background-image: url("../img/rueda1.png");
+top: 490px;
+left: 649px;
+}
+#llanta4{
+  position: absolute;
+width: 187px;
+height: 169px;
+background-image: url("../img/rueda1.png");
+top: 490px;
+left: 700px;
+}
+#garra{
+   position: absolute;
+width: 732px;
+height: 532px;
+background-image: url("../img/garra.png");
+top: 100px;
+left: -70px;
+}
+#butons{
+     position: absolute;
+width: 734px;
+height: 535px;
+top: 50px;
+left: 300px;
+
+}
+
+
+
+
